@@ -1,0 +1,599 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6880 64-bit) (preloaded format=pdflatex 2018.11.19)  20 DEC 2018 12:39
+entering extended mode
+**./PS_Vorlage.tex
+(PS_Vorlage.tex
+LaTeX2e <2018-04-01> patch level 5
+(PS_de.cls
+
+LaTeX Warning: You have requested document class `PS_de',
+               but the document class provides `PS'.
+
+Document Class: PS 2005/09/13 revision V1.6c by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- The source comments contain changelog notes.
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count80
+\@IEEEtrantmpcountB=\count81
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 787.
+
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\@IEEEnormalsizefontbaselineskip=\skip41
+
+-- This is a 10 point document.
+\normalsizebaselineskip=\skip42
+\normaljot=\skip43
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1106.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1106.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1106.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1106.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1106.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1106.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1106.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1106.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1106.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1106.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1106.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1106.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1106.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1106.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1106.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1106.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1106.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1106.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1106.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1106.
+
+\IEEEilabelindentA=\dimen104
+\IEEEilabelindentB=\dimen105
+\IEEEilabelindent=\dimen106
+\IEEEelabelindent=\dimen107
+\IEEEdlabelindent=\dimen108
+\labelindent=\dimen109
+\IEEEiednormlabelsep=\dimen110
+\IEEEiedmathlabelsep=\dimen111
+\IEEEiedtopsep=\skip44
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@IEEEsubequation=\count86
+\abovecaptionskip=\skip45
+\belowcaptionskip=\skip46
+\c@figure=\count87
+\c@table=\count88
+\@IEEEeqnnumcols=\count89
+\@IEEEeqncolcnt=\count90
+\@IEEEtmpitemindent=\dimen112
+\c@biography=\count91
+\@IEEEtranrubishbin=\box26
+) (PS_de.sty
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\generic\german\ngerman.sty
+" v2.5e 1998-07-08
+Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
+\grmnU@D=\dimen113
+ngerman -- \language number for naustrian undefined, default 45 used.
+)
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.st
+y"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.st
+y"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphic
+s.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.
+def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psfrag\psfrag.sty"
+Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
+\pfg@pcount=\count92
+\pfg@scount=\count93
+\pfg@temp=\write3
+)
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\subfigure.
+sty"
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip47
+\subfigcapskip=\skip48
+\subfigcaptopadj=\dimen116
+\subfigbottomskip=\skip49
+\subfigcapmargin=\dimen117
+\subfiglabelskip=\skip50
+\c@subfigure=\count94
+\c@lofdepth=\count95
+\c@subtable=\count96
+\c@lotdepth=\count97
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigure\subfigure.
+cfg")
+\subfig@top=\skip51
+\subfig@bottom=\skip52
+) ("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) ("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
+y"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen118
+)) ("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen119
+) ("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count98
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count99
+\leftroot@=\count100
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count101
+\DOTSCASE@=\count102
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen120
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count103
+\c@MaxMatrixCols=\count104
+\dotsspace@=\muskip11
+\c@parentequation=\count105
+\dspbrk@lvl=\count106
+\tag@help=\toks17
+\row@=\count107
+\column@=\count108
+\maxfields@=\count109
+\andhelp@=\toks18
+\eqnshift@=\dimen121
+\alignsep@=\dimen122
+\tagshift@=\dimen123
+\tagwidth@=\dimen124
+\totwidth@=\dimen125
+\lineht@=\dimen126
+\@envbody=\toks19
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+) ("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
+\col@sep=\dimen127
+\ar@mcellbox=\box29
+\extrarowheight=\dimen128
+\NC@list=\toks21
+\extratabsurround=\skip56
+\backup@length=\skip57
+\ar@cellbox=\box30
+)) ("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+ ("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 105.
+
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+))
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\latin1.def"
+File: latin1.def 2018/04/06 v1.3b Input encoding file
+))
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\blindtext\blindtext.
+sty"
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+ ("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\xspace.sty"
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count110
+\c@Blindtext=\count111
+\c@blind@countparstart=\count112
+\blind@countxx=\count113
+\blindtext@numBlindtext=\count114
+\blind@countyy=\count115
+\c@blindlist=\count116
+\c@blindlistlevel=\count117
+\c@blindlist@level=\count118
+\blind@listitem=\count119
+\c@blind@listcount=\count120
+\c@blind@levelcount=\count121
+\blind@mathformula=\count122
+\blind@Mathformula=\count123
+\c@blind@randomcount=\count124
+\c@blind@randommax=\count125
+\c@blind@pangramcount=\count126
+\c@blind@pangrammax=\count127
+) (PS_Vorlage.aux)
+\openout1 = `PS_Vorlage.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `T1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `T1/ptm/b/it' tried instead on input line 20.
+
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mkii
+"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count128
+\scratchdimen=\dimen129
+\scratchbox=\box31
+\nofMPsegments=\count129
+\nofMParguments=\count130
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count131
+\MPscratchDim=\dimen130
+\MPnumerator=\count132
+\makeMPintoPDFobject=\count133
+\everyMPtoPDFconversion=\toks25
+)
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-ba
+se.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infwarerr
+.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefinek
+eys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.s
+ty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.s
+ty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys
+.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.
+sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.
+sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmd
+s.sty"
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\Art\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 37.
+
+Underfull \hbox (badness 1715) in paragraph at lines 91--92
+[]\T1/ptm/m/n/10 Vorsicht vor Pla-gia-ten: voll-stän-di-ge Quel-len-an-ga-ben,
+ []
+
+
+Underfull \hbox (badness 4859) in paragraph at lines 119--120
+[]\T1/ptm/m/n/10 Diagramme: Ach-sen-be-schrif-tun-gen hin-rei-chend groÿ
+ []
+
+Package epstopdf Info: Source file: <./pics/rmr.eps>
+(epstopdf)                    date: 2018-09-19 14:49:30
+(epstopdf)                    size: 263974 bytes
+(epstopdf)             Output file: <./pics/rmr-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-17 10:50:02
+(epstopdf)                    size: 8712 bytes
+(epstopdf)             Command: <epstopdf --outfile=./pics/rmr-eps-converted-to
+.pdf ./pics/rmr.eps>
+(epstopdf)             \includegraphics on input line 120.
+Package epstopdf Info: Output file is already uptodate.
+<./pics/rmr-eps-converted-to.pdf, id=1, 542.025pt x 17.06375pt>
+File: ./pics/rmr-eps-converted-to.pdf Graphic file (type pdf)
+<use ./pics/rmr-eps-converted-to.pdf>
+Package pdftex.def Info: ./pics/rmr-eps-converted-to.pdf  used on input line 12
+0.
+(pdftex.def)             Requested size: 516.0pt x 16.24507pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+
+Overfull \hbox (3.21994pt too wide) has occurred while \output is active
+[] []  
+ []
+
+[1
+Non-PDF special ignored!
+<special> header=psfrag.pro
+{C:/Users/Art/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+ <./pics/rmr-eps-converted-to.pdf>] (PS_Vorlage.bbl)
+Package epstopdf Info: Source file: <./pics/ComicKopf.eps>
+(epstopdf)                    date: 2018-09-19 14:49:30
+(epstopdf)                    size: 27821 bytes
+(epstopdf)             Output file: <./pics/ComicKopf-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-17 10:50:02
+(epstopdf)                    size: 2273 bytes
+(epstopdf)             Command: <epstopdf --outfile=./pics/ComicKopf-eps-conver
+ted-to.pdf ./pics/ComicKopf.eps>
+(epstopdf)             \includegraphics on input line 147.
+Package epstopdf Info: Output file is already uptodate.
+<./pics/ComicKopf-eps-converted-to.pdf, id=21, 81.30376pt x 69.25874pt>
+File: ./pics/ComicKopf-eps-converted-to.pdf Graphic file (type pdf)
+<use ./pics/ComicKopf-eps-converted-to.pdf>
+Package pdftex.def Info: ./pics/ComicKopf-eps-converted-to.pdf  used on input l
+ine 147.
+(pdftex.def)             Requested size: 72.27574pt x 61.5682pt.
+Package epstopdf Info: Source file: <./pics/ComicKopf.eps>
+(epstopdf)                    date: 2018-09-19 14:49:30
+(epstopdf)                    size: 27821 bytes
+(epstopdf)             Output file: <./pics/ComicKopf-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-17 10:50:02
+(epstopdf)                    size: 2273 bytes
+(epstopdf)             Command: <epstopdf --outfile=./pics/ComicKopf-eps-conver
+ted-to.pdf ./pics/ComicKopf.eps>
+(epstopdf)             \includegraphics on input line 147.
+Package epstopdf Info: Output file is already uptodate.
+File: ./pics/ComicKopf-eps-converted-to.pdf Graphic file (type pdf)
+<use ./pics/ComicKopf-eps-converted-to.pdf>
+Package pdftex.def Info: ./pics/ComicKopf-eps-converted-to.pdf  used on input l
+ine 147.
+(pdftex.def)             Requested size: 72.27574pt x 61.5682pt.
+Package epstopdf Info: Source file: <./pics/ComicKopf.eps>
+(epstopdf)                    date: 2018-09-19 14:49:30
+(epstopdf)                    size: 27821 bytes
+(epstopdf)             Output file: <./pics/ComicKopf-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-17 10:50:02
+(epstopdf)                    size: 2273 bytes
+(epstopdf)             Command: <epstopdf --outfile=./pics/ComicKopf-eps-conver
+ted-to.pdf ./pics/ComicKopf.eps>
+(epstopdf)             \includegraphics on input line 153.
+Package epstopdf Info: Output file is already uptodate.
+File: ./pics/ComicKopf-eps-converted-to.pdf Graphic file (type pdf)
+<use ./pics/ComicKopf-eps-converted-to.pdf>
+Package pdftex.def Info: ./pics/ComicKopf-eps-converted-to.pdf  used on input l
+ine 153.
+(pdftex.def)             Requested size: 72.27574pt x 61.5682pt.
+Package epstopdf Info: Source file: <./pics/ComicKopf.eps>
+(epstopdf)                    date: 2018-09-19 14:49:30
+(epstopdf)                    size: 27821 bytes
+(epstopdf)             Output file: <./pics/ComicKopf-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-17 10:50:02
+(epstopdf)                    size: 2273 bytes
+(epstopdf)             Command: <epstopdf --outfile=./pics/ComicKopf-eps-conver
+ted-to.pdf ./pics/ComicKopf.eps>
+(epstopdf)             \includegraphics on input line 153.
+Package epstopdf Info: Output file is already uptodate.
+File: ./pics/ComicKopf-eps-converted-to.pdf Graphic file (type pdf)
+<use ./pics/ComicKopf-eps-converted-to.pdf>
+Package pdftex.def Info: ./pics/ComicKopf-eps-converted-to.pdf  used on input l
+ine 153.
+(pdftex.def)             Requested size: 72.27574pt x 61.5682pt.
+Package epstopdf Info: Source file: <./pics/ComicKopf.eps>
+(epstopdf)                    date: 2018-09-19 14:49:30
+(epstopdf)                    size: 27821 bytes
+(epstopdf)             Output file: <./pics/ComicKopf-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-17 10:50:02
+(epstopdf)                    size: 2273 bytes
+(epstopdf)             Command: <epstopdf --outfile=./pics/ComicKopf-eps-conver
+ted-to.pdf ./pics/ComicKopf.eps>
+(epstopdf)             \includegraphics on input line 159.
+Package epstopdf Info: Output file is already uptodate.
+File: ./pics/ComicKopf-eps-converted-to.pdf Graphic file (type pdf)
+<use ./pics/ComicKopf-eps-converted-to.pdf>
+Package pdftex.def Info: ./pics/ComicKopf-eps-converted-to.pdf  used on input l
+ine 159.
+(pdftex.def)             Requested size: 72.27574pt x 61.5682pt.
+Package epstopdf Info: Source file: <./pics/ComicKopf.eps>
+(epstopdf)                    date: 2018-09-19 14:49:30
+(epstopdf)                    size: 27821 bytes
+(epstopdf)             Output file: <./pics/ComicKopf-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-17 10:50:02
+(epstopdf)                    size: 2273 bytes
+(epstopdf)             Command: <epstopdf --outfile=./pics/ComicKopf-eps-conver
+ted-to.pdf ./pics/ComicKopf.eps>
+(epstopdf)             \includegraphics on input line 159.
+Package epstopdf Info: Output file is already uptodate.
+File: ./pics/ComicKopf-eps-converted-to.pdf Graphic file (type pdf)
+<use ./pics/ComicKopf-eps-converted-to.pdf>
+Package pdftex.def Info: ./pics/ComicKopf-eps-converted-to.pdf  used on input l
+ine 159.
+(pdftex.def)             Requested size: 72.27574pt x 61.5682pt.
+Package epstopdf Info: Source file: <./pics/rmr2.eps>
+(epstopdf)                    date: 2018-09-19 14:49:30
+(epstopdf)                    size: 2462 bytes
+(epstopdf)             Output file: <./pics/rmr2-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-12-17 10:50:03
+(epstopdf)                    size: 2943 bytes
+(epstopdf)             Command: <epstopdf --outfile=./pics/rmr2-eps-converted-t
+o.pdf ./pics/rmr2.eps>
+(epstopdf)             \includegraphics on input line 165.
+Package epstopdf Info: Output file is already uptodate.
+<./pics/rmr2-eps-converted-to.pdf, id=28, 543.02875pt x 18.0675pt>
+File: ./pics/rmr2-eps-converted-to.pdf Graphic file (type pdf)
+<use ./pics/rmr2-eps-converted-to.pdf>
+Package pdftex.def Info: ./pics/rmr2-eps-converted-to.pdf  used on input line 1
+65.
+(pdftex.def)             Requested size: 516.0pt x 17.16898pt.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+
+ []
+
+
+Overfull \hbox (3.21994pt too wide) has occurred while \output is active
+  [] 
+ []
+
+[2
+
+ <./pics/ComicKopf-eps-converted-to.pdf> <./pics/rmr2-eps-converted-to.pdf>]
+(PS_Vorlage.aux) ) 
+Here is how much of TeX's memory you used:
+ 3811 strings out of 492969
+ 55241 string characters out of 3127473
+ 136895 words of memory out of 3000000
+ 7604 multiletter control sequences out of 15000+200000
+ 116478 words of font info for 123 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,10n,40p,374b,402s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Art/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvi
+ps/base/8r.enc}<C:/Users/Art/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi10.pfb><C:/Users/Art/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Art/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Art/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Art/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Art/
+AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Ar
+t/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users
+/Art/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Use
+rs/Art/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on PS_Vorlage.pdf (2 pages, 116145 bytes).
+PDF statistics:
+ 69 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 52 words of extra memory for PDF output out of 10000 (max. 10000000)
+
